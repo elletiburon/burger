@@ -1,21 +1,22 @@
 body {
     font-family: 'Permanent Marker', cursive;
     width: 100%;
-    background-image: url("https://i.pinimg.com/originals/93/72/95/937295cb7afeeb33e4f01799f484371a.jpg");
+    background-image: url("https://webstockreview.net/images/hamburger-clipart-monster-burger-9.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    background-color: thistle;
 }
 
 #container {
-    background-color: thistle;
+  float: right;
     width: 65%;
     margin-left: 175px;
 }
 
 h1 {
     font-family: 'Staatliches', cursive;
-    color: whitesmoke;
-    text-shadow: 3px 3px purple;
+    color: purple;
+    text-shadow: 3px 3px violet;
     margin: auto 0;
     margin-left: 20%;
     margin-bottom: 3%;
@@ -47,10 +48,16 @@ li {
     clear: both;
     margin-left: 25%;
     padding-bottom: 20px;
+   
 }
 
 .btn-primary {
     color: #fff;
     background-color: #b700ff;
     border-color: #b700ff;
+}
+
+img {
+    width: 50%;
+    float: right;
 }

@@ -1,0 +1,56 @@
+body {
+    font-family: 'Permanent Marker', cursive;
+    width: 100%;
+    background-image: url("https://i.pinimg.com/originals/93/72/95/937295cb7afeeb33e4f01799f484371a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container {
+    background-color: thistle;
+    width: 65%;
+    margin-left: 175px;
+}
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    color: whitesmoke;
+    text-shadow: 3px 3px purple;
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    padding-top: 10px;
+}
+
+#avail {
+    float: left;
+    margin-right: 6%;
+    margin-left: 10%;
+  
+
+}
+
+#devoured {
+    float: left;
+
+
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+
+#add {
+    clear: both;
+    margin-left: 25%;
+    padding-bottom: 20px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #b700ff;
+    border-color: #b700ff;
+}
